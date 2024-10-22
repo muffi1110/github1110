@@ -1,2 +1,21 @@
 Created test1110.txt file
 this is for reference
+# print hello world
+
+def main():
+  print("hello world")
+
+if __name == "__main__":
+  main()
+
+def add_numbers(a,b)
+  return a + b
+
+
+num1 = float(input("enter first number"))
+num2 = float(input("enter second number"))
+
+result = add_numbers(num1, num2)
+print (result)
+
+0, 1, 1, 2,
